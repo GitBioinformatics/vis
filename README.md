@@ -1,7 +1,5 @@
 
 <figure class="two"'>
-
-
     <a href="#">
     	<img src="img/001.png" width="49%"/>
     </a>

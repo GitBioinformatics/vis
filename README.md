@@ -1,7 +1,13 @@
 
 <figure class="two"'>
-<img src="img/001.png" width="45%"/>
-<img src="img/002.png" width="45%"/>
+
+
+    <a href="#">
+    	<img src="img/001.png" width="49%"/>
+    </a>
+    <a href="#">
+    	<img src="img/002.png" width="49%"/>
+    </a>
 </figure>
 ----
 

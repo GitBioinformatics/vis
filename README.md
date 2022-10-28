@@ -1,7 +1,7 @@
 
 <figure class="two"'>
-<img src="img/001.png" width="48%"/>
-<img src="img/002.png" width="48%"/>
+<img src="img/001.png" width="45%"/>
+<img src="img/002.png" width="45%"/>
 </figure>
 ----
 

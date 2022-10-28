@@ -1,9 +1,9 @@
 
 <figure class="two"'>
-    <a href="#">
+    <a href="img/001.png">
     	<img src="img/001.png" width="49%"/>
     </a>
-    <a href="#">
+    <a href="img/002.png">
     	<img src="img/002.png" width="49%"/>
     </a>
 </figure>
